@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Galang",
+    "email": "galang@mail.com",
+    "password": "123",
+    "credit": 5
+  },
+  {
+    "name": "Rafly",
+    "email": "rafly@mail.com",
+    "password": "123",
+    "credit": 5
+  },
+  {
+    "name": "Ardian",
+    "email": "ardian@mail.com",
+    "password": "123",
+    "credit": 5
+  }
+]
